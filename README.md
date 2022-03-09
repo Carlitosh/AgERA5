@@ -20,7 +20,7 @@ https://cds.climate.copernicus.eu/api/v2/terms/static/licence-to-use-copernicus-
 
 ### Installation  
 ``` r
-devtools::install_github("agrdatasci/agera5", build_vignettes = TRUE)
+devtools::install_github("Carlitosh/AgERA5", build_vignettes = TRUE)
 ```
 ### Downloading AgERA5 data
 #### csdapi setup
