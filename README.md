@@ -53,3 +53,10 @@ The *agera5* package relies on the functionality available from other open sourc
 ### Disclaimer
 Please be aware that is still a development version of the package. You are free to use it for your own purposes with no warranty.
 
+### Resources
+* https://confluence.ecmwf.int/display/COPSRV/Call+a+service+with+the+CDS+API
+* https://cds.climate.copernicus.eu/#!/home
+* https://nordicesmhub.github.io/climate-data-tutorial/05-toolbox/index.html
+* https://cds.climate.copernicus.eu/toolbox/doc/tutorials/1_getting_started_with_the_cds_toolbox/1_getting_started_with_the_cds_toolbox.html#
+* https://github.com/ecmwf/cdsapi
+* https://cds.climate.copernicus.eu/toolbox/doc/gallery/3_extract_time_series_and_plot_graph.html
