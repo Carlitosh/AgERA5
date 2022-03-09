@@ -1,4 +1,4 @@
-# agera5
+# AgERA5
 ## Toolbox for downloading and extracting data from the Copernicus AgERA5 dataset
 
 
